@@ -1,66 +1,72 @@
-![GitHub Profile Banner](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47agrev08qdo3hp1bnoqo1n9ryvkjgu8z6dpxk619t&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+---
 
-# Well, Hello there! I'm Salman Shaikh 👋
+# 👋 Hey, I'm Salman Shaikh!  
 
-## About Me
+![GitHub Profile Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N1NWF6YjZhZ24yazNobGc3c3Qzbzhhcnhsa2oxeWtiNWFpdXZxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)  
 
-Hello! I'm Salman Shaikh, a passionate app developer and student dedicated to building innovative, user-friendly, and impactful applications. 
+## 🚀 About Me  
 
-> **Short Bio:**
-> _[I code at nights while vibing to my favorite music.]_
+I'm Salman Shaikh, a passionate app developer dedicated to crafting seamless and user-friendly experiences. Whether it's building intuitive Flutter apps, diving into Jetpack Compose, or experimenting with blockchain, I love bringing ideas to life through code.  
+
+> _"I code at nights while vibing to my favorite music."_ 🎧  
+
+When I’m not writing code, I’m probably exploring new tech, contributing to open-source projects, or brainstorming my next big idea.  
 
 ---
 
-## 🏆 Awards & Achievements
+## 🎯 What I Do  
 
-- **Joint Head of Sponsorship** at ACM MHSSCOE.
-- **Editorial Board Member** at IEEE MHSSCOE Student Chapter.
-- Completed a **Flutter Developer Internship** at Hertzsoft Technologies Pvt. Ltd., contributing to an offline-first Quran application.
-- Active contributor to open-source projects and team collaborations.
-
----
-
-## 📊 GitHub Stats
-
-![Salman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salman-shaikh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salman-shaikh&layout=compact&theme=radical)
+💡 **App Development** – Building cross-platform apps with Flutter & Kotlin.  
+🔥 **Blockchain & Web3** – Experimenting with decentralized apps & smart contracts.  
+📡 **AI & 3D Tech** – Integrating advanced AI and 3D analysis in applications.  
+🎨 **UI/UX** – Crafting sleek, intuitive, and modern interfaces.  
+⚡ **Backend Development** – Exploring APIs, Firebase, and database architectures.  
 
 ---
 
-## 🔧 Skills
+## 🌟 Featured Projects  
 
-- **Languages:** Dart, JavaScript, Kotlin (learning phase), Python, C++, HTML, CSS.
-- **Frameworks & Tools:** Flutter, Firebase, Riverpod, BLoC, Clean Architecture, Tailwind CSS.
-- **Tools for Development:** Visual Studio Code, GitHub, Figma, Firebase Firestore, Android Studio.
+### 🎥 **DecentraStream**  
+- A **decentralized video-sharing platform** powered by blockchain.  
+- Videos are stored on **IPFS**, ensuring **censorship resistance**.  
+- Features **on-chain comments**, **crypto tipping**, and **adaptive streaming**.  
+- **[Live Demo](https://decentrastream.vercel.app) | [GitHub](https://github.com/TechSmith90210/decentrastream)**  
 
----
+### 📏 **DimenScan**  
+- An **AI-powered 3D analysis tool** that extracts **precise dimensions** from selfies and objects.  
+- Makes **measurements effortless & accurate** using advanced **computer vision**.  
+- Useful for **e-commerce, health tracking, and augmented reality applications**.  
+- **[GitHub](https://github.com/TechSmith90210/dimenscan)**  
 
-## 🌐 Featured Projects
+### 🎵 **Grapewine Music App**  
+- Open-source **offline music player** built with Flutter.  
+- Integrates the **Spotify API** and uses **Isar** for storage.  
+- Customizable playlists, and future plans for **AI-based song recommendations**.  
+- **[GitHub](https://github.com/TechSmith90210/GRAPEWINE)**
 
-### Grapewine Music App
-- An open-source Flutter app focused on offline music playback.
-- Integrates the Spotify API and uses Isar for storage.
-- Includes customizable playlists and plans for a song recommender system.
+### 📝 **Notes App**  
+- A minimal, distraction-free **Flutter notes app**.  
+- Organizes notes into categories for better productivity.
+- **[GitHub](https://github.com/TechSmith90210/Notes_App)**  
 
-### Quran App
-- Offline-first Flutter application created during my internship at Hertzsoft Technologies.
-- Features advanced text rendering and audio playback capabilities.
-
-### Notes App
-- Flutter app for organizing notes into categories.
-- Minimalistic design for a distraction-free user experience.
-
-[Check out more projects here!](https://github.com/salman-shaikh?tab=repositories)
-
----
-
-## ✨ Get In Touch
-
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/salman-shaikh/)
-- Email: [Email Address](mailto:youremail@example.com)
-- Portfolio: [Portfolio Link](https://yourportfolio.com)
+💻 **More Projects** → [Explore my GitHub](https://github.com/TechSmith90210?tab=repositories)  
 
 ---
 
-Thanks for stopping by! 😊 Feel free to explore my repositories and drop a star if you find anything interesting!
+## 🏆 Achievements  
 
+- **Head of Sponsorship** at ACM MHSSCOE.  
+- Completed a **Flutter Developer Internship** at Hertzsoft Technologies, working on advanced applications.  
+- Active contributor to **open-source projects** and collaborative development.  
+
+---
+
+## 📬 Let’s Connect  
+
+📌 **LinkedIn:** [Salman Shaikh](https://www.linkedin.com/in/salman-shaikh-264555283)  
+📧 **Email:** [sshaikhdev@gmail.com](mailto:sshaikhdev@gmail.com)  
+🌐 **Portfolio:** [Check it out!](https://salman-portfolio-cyan.vercel.app)  
+
+---
+
+🚀 Thanks for stopping by! If you like my work, feel free to connect, collaborate, or drop a star ⭐ on my projects!
