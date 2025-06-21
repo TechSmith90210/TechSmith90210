@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Salman Shaikh!
 
-![GitHub Profile Banner](https://c.tenor.com/ZtuVwa_2f1oAAAAC/tenor.gif)
+<img src="https://c.tenor.com/ZtuVwa_2f1oAAAAC/tenor.gif" width="40%" />
 
 ## 🚀 About Me
 
