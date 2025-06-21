@@ -1,72 +1,92 @@
----
+# 👋 Hey, I'm Salman Shaikh!
 
-# 👋 Hey, I'm Salman Shaikh!  
+![GitHub Profile Banner](https://c.tenor.com/ZtuVwa_2f1oAAAAC/tenor.gif)
 
-![GitHub Profile Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N1NWF6YjZhZ24yazNobGc3c3Qzbzhhcnhsa2oxeWtiNWFpdXZxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)  
+## 🚀 About Me
 
-## 🚀 About Me  
+I'm Salman Shaikh — a **full stack app developer** passionate about building smooth, scalable, and user-first digital products. Whether it’s crafting beautiful interfaces or building robust backends, I thrive on solving real problems with elegant code.
 
-I'm Salman Shaikh, a passionate app developer dedicated to crafting seamless and user-friendly experiences. Whether it's building intuitive Flutter apps, diving into Jetpack Compose, or experimenting with blockchain, I love bringing ideas to life through code.  
+> *"I code at nights while vibing to my favorite music."* 🎧
 
-> _"I code at nights while vibing to my favorite music."_ 🎧  
-
-When I’m not writing code, I’m probably exploring new tech, contributing to open-source projects, or brainstorming my next big idea.  
+I love bringing ideas to life. When I'm not coding, you’ll find me exploring new tech trends, contributing to open-source projects, or sketching out my next app concept.
 
 ---
 
-## 🎯 What I Do  
+## 🎯 What I Do
 
-💡 **App Development** – Building cross-platform apps with Flutter & Kotlin.  
-🔥 **Blockchain & Web3** – Experimenting with decentralized apps & smart contracts.  
-📡 **AI & 3D Tech** – Integrating advanced AI and 3D analysis in applications.  
-🎨 **UI/UX** – Crafting sleek, intuitive, and modern interfaces.  
-⚡ **Backend Development** – Exploring APIs, Firebase, and database architectures.  
-
----
-
-## 🌟 Featured Projects  
-
-### 🎥 **DecentraStream**  
-- A **decentralized video-sharing platform** powered by blockchain.  
-- Videos are stored on **IPFS**, ensuring **censorship resistance**.  
-- Features **on-chain comments**, **crypto tipping**, and **adaptive streaming**.  
-- **[Live Demo](https://decentrastream.vercel.app) | [GitHub](https://github.com/TechSmith90210/decentrastream)**  
-
-### 📏 **DimenScan**  
-- An **AI-powered 3D analysis tool** that extracts **precise dimensions** from selfies and objects.  
-- Makes **measurements effortless & accurate** using advanced **computer vision**.  
-- Useful for **e-commerce, health tracking, and augmented reality applications**.  
-- **[GitHub](https://github.com/TechSmith90210/dimenscan)**  
-
-### 🎵 **Grapewine Music App**  
-- Open-source **offline music player** built with Flutter.  
-- Integrates the **Spotify API** and uses **Isar** for storage.  
-- Customizable playlists, and future plans for **AI-based song recommendations**.  
-- **[GitHub](https://github.com/TechSmith90210/GRAPEWINE)**
-
-### 📝 **Notes App**  
-- A minimal, distraction-free **Flutter notes app**.  
-- Organizes notes into categories for better productivity.
-- **[GitHub](https://github.com/TechSmith90210/Notes_App)**  
-
-💻 **More Projects** → [Explore my GitHub](https://github.com/TechSmith90210?tab=repositories)  
+* 💡 **App Development** – Building modern, performant apps with Flutter, React Native, and Jetpack Compose
+* ⚙️ **Full Stack Engineering** – Designing APIs, managing auth flows, and handling databases with Supabase, Firebase, and custom servers
+* 🎨 **UI/UX Design** – Creating clean, minimal, and highly intuitive user experiences
+* 🔐 **Blockchain & Web3** – Experimenting with smart contracts, IPFS, and crypto-based interactions
+* 🧠 **AI & 3D Tech** – Applying computer vision and generative AI to build futuristic experiences
 
 ---
 
-## 🏆 Achievements  
+## 🌟 Featured Projects
 
-- **Head of Sponsorship** at ACM MHSSCOE.  
-- Completed a **Flutter Developer Internship** at Hertzsoft Technologies, working on advanced applications.  
-- Active contributor to **open-source projects** and collaborative development.  
+### 🏰 MindPalace
 
----
-
-## 📬 Let’s Connect  
-
-📌 **LinkedIn:** [Salman Shaikh](https://www.linkedin.com/in/salman-shaikh-264555283)  
-📧 **Email:** [sshaikhdev@gmail.com](mailto:sshaikhdev@gmail.com)  
-🌐 **Portfolio:** [Check it out!](https://salman-portfolio-cyan.vercel.app)  
+* A **Notion-style notes app** built with **Jetpack Compose** and **Supabase**
+* Includes **rich text editing**, **nested folders**, **user blogs**, and **profile features**
+* Clean architecture, responsive design, and great developer experience
+* **[GitHub](https://github.com/TechSmith90210/mindpalace)**
 
 ---
 
-🚀 Thanks for stopping by! If you like my work, feel free to connect, collaborate, or drop a star ⭐ on my projects!
+### 🎥 DecentraStream
+
+* A **fully decentralized video platform** powered by blockchain tech
+* Stores content via **IPFS** with **crypto tipping** and **on-chain commenting**
+* Aimed at **censorship resistance** and creator ownership
+* **[Live Demo](https://decentrastream.vercel.app) | [GitHub](https://github.com/TechSmith90210/decentrastream)**
+
+---
+
+### 📏 DimenScan
+
+* A **3D measurement tool** using AI and computer vision
+* Captures **dimensions from selfies and objects** in real-time
+* Perfect for **AR, fitness, and e-commerce** integrations
+* **[GitHub](https://github.com/TechSmith90210/dimenscan)**
+
+---
+
+### 🎵 Grapewine Music App
+
+* An open-source **offline music player** built with Flutter
+* Integrates **Spotify API** and stores data locally with **Isar**
+* Features custom playlists and roadmap for **AI-powered suggestions**
+* **[GitHub](https://github.com/TechSmith90210/GRAPEWINE)**
+
+---
+
+### 📝 Notes App
+
+* A clean, distraction-free **Flutter notes app**
+* Focused on productivity with organized categories
+* Simple yet elegant — built for speed and focus
+* **[GitHub](https://github.com/TechSmith90210/Notes_App)**
+
+---
+
+💻 **Explore More** → [My GitHub Repositories](https://github.com/TechSmith90210?tab=repositories)
+
+---
+
+## 🏆 Achievements
+
+* 🏅 **Head of Sponsorship** at ACM MHSSCOE
+* 💼 Completed a hands-on **Flutter Internship** at Hertzsoft Technologies
+* 🤝 Active contributor to various **open-source** initiatives
+
+---
+
+## 📬 Let's Connect
+
+* 📌 **LinkedIn:** [Salman Shaikh](https://www.linkedin.com/in/salman-shaikh-264555283)
+* 📧 **Email:** [sshaikhdev@gmail.com](mailto:sshaikhdev@gmail.com)
+* 🌐 **Portfolio:** [salman-portfolio.vercel.app](https://salman-portfolio-cyan.vercel.app)
+
+---
+
+🚀 Thanks for visiting! If you enjoy my work, feel free to connect, collaborate, or star ⭐ any project you like!
